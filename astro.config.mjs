@@ -57,7 +57,9 @@ export default defineConfig({
     ),
 
     compress({
-      CSS: true,
+      CSS: {
+        lightningcss: false,
+      },
       HTML: {
         'html-minifier-terser': {
           removeAttributeQuotes: false,
