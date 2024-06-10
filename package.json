@@ -36,7 +36,7 @@
     "@eslint/js": "^9.4.0",
     "@iconify-json/flat-color-icons": "^1.1.10",
     "@iconify-json/tabler": "^1.1.113",
-    "@playform/compress": "0.0.10",
+    "@playform/compress": "0.0.12",
     "@tailwindcss/typography": "^0.5.13",
     "@types/eslint__js": "^8.42.3",
     "@types/js-yaml": "^4.0.9",
