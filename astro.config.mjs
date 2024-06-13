@@ -60,11 +60,7 @@ export default defineConfig({
 		),
 
 		compress({
-			CSS: {
-				lightningcss: {
-					unusedSymbols: false,
-				},
-			},
+			CSS: true,
 			HTML: {
 				"html-minifier-terser": {
 					removeAttributeQuotes: false,
